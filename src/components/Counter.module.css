@@ -1,0 +1,19 @@
+.counter {
+    text-align: center;
+    font-family: "Century Gothic";
+    font-size: 20pt;
+}
+
+.button {
+    font-size: 20pt;
+    color: rgba(82, 83, 86, 0.98);
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid gray;
+    height: 30px;
+    width: 30px;
+}
+
+.input {
+    width: 250px;
+}
